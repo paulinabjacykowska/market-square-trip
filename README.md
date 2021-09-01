@@ -13,7 +13,7 @@
 ## About
 
 <p>
-  Market Square Trip is a mobile application designed and created to help you find the best places for eat & drink near Wrocław Market Square.<br>
+  Market Square Trip is a mobile application designed and created to help you find the best places to eat & drink near Wrocław Market Square.<br>
   Main features include: 
   <ul>
     <li>searching places by name</li>
@@ -33,7 +33,7 @@ If you want to download and run this project on your phone:
   <li>Make sure that you have installed Expo Go app. If not: 
     <br>
     <ul>
-      <li>Head over to Google PlayStore or AppStore and download it</li>
+      <li>Head over to Play Store or App Store and download it</li>
       <li>Open the ExpoGo app and follow the instructions to register for an Expo account</li>
     </ul>
   <li>Download and unpack this repo on your local machine</li>
@@ -71,4 +71,4 @@ https://user-images.githubusercontent.com/89641881/131191271-cb7453a8-7847-47cb-
 </ul>
   
 ## Creators
-Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska) and two other students (Marcin Szuster and Magdalena Szadejko) from Wrocław University of Science and Technology as part of a team project in the field of "IT Project" within the project "ZPR PWr - Zintegrowany Program Rozwoju PWr".
+Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska), Marcin Szuster and Magdalena Szadejko, students of Wrocław University of Science and Technology as part of a team assignment "IT Project" within the "ZPR PWr - Zintegrowany Program Rozwoju PWr" project.
