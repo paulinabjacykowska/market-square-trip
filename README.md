@@ -71,4 +71,4 @@ https://user-images.githubusercontent.com/89641881/131191271-cb7453a8-7847-47cb-
 </ul>
   
 ## Creators
-Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska) and two other students from Wrocław University of Science and Technology as part of a team project in the field of "IT Project" within the project "ZPR PWr - Zintegrowany Program Rozwoju PWr".
+Created by [Paulina Jacykowska](https://github.com/paulinabjacykowska) and two other students (Marcin Szuster and Magdalena Szadejko) from Wrocław University of Science and Technology as part of a team project in the field of "IT Project" within the project "ZPR PWr - Zintegrowany Program Rozwoju PWr".
